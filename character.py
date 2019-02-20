@@ -10,7 +10,6 @@ class Character():
         # `self` is the customary way to refer to the instance being built
         # in other languages, they use `this`
         self.name = new_name
-        self.inventory = inventory
 
 
 
